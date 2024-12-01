@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+numpy  
+Pillow
+google-cloud-storage
+tensorflow==2.16.1 
+keras==3.3.3
+
+
